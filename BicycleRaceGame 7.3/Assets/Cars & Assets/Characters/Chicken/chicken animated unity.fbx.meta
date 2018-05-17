@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: e9fd6065f1f006440b27e59804baf128
+timeCreated: 1510567289
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone.001
+    100006: Bone.002
+    100008: Bone_end
+    100010: //RootNode
+    100012: Cylinder.001
+    100014: leg1.l
+    100016: leg1.r.001
+    100018: leg2.l
+    100020: leg2.r.001
+    100022: leg3.l
+    100024: leg3.r.001
+    100026: Sphere
+    100028: Sphere.005
+    100030: toe1.l
+    100032: toe1.l_end
+    100034: toe1.r.001
+    100036: toe1.r.001_end
+    100038: toe2.l
+    100040: toe2.l_end
+    100042: toe2.r.001
+    100044: toe2.r.001_end
+    100046: toe3.l
+    100048: toe3.l_end
+    100050: toe3.r.001
+    100052: toe3.r.001_end
+    100054: toe4.l
+    100056: toe4.l_end
+    100058: toe4.r.001
+    100060: toe4.r.001_end
+    400000: Armature
+    400002: Bone
+    400004: Bone.001
+    400006: Bone.002
+    400008: Bone_end
+    400010: //RootNode
+    400012: Cylinder.001
+    400014: leg1.l
+    400016: leg1.r.001
+    400018: leg2.l
+    400020: leg2.r.001
+    400022: leg3.l
+    400024: leg3.r.001
+    400026: Sphere
+    400028: Sphere.005
+    400030: toe1.l
+    400032: toe1.l_end
+    400034: toe1.r.001
+    400036: toe1.r.001_end
+    400038: toe2.l
+    400040: toe2.l_end
+    400042: toe2.r.001
+    400044: toe2.r.001_end
+    400046: toe3.l
+    400048: toe3.l_end
+    400050: toe3.r.001
+    400052: toe3.r.001_end
+    400054: toe4.l
+    400056: toe4.l_end
+    400058: toe4.r.001
+    400060: toe4.r.001_end
+    4300000: Cylinder.001
+    4300002: Sphere.005
+    4300004: Sphere
+    7400000: Armature|Running/walking cycle
+    9500000: //RootNode
+    13700000: Cylinder.001
+    13700002: Sphere
+    13700004: Sphere.005
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EGG
+    second: {fileID: 2100000, guid: d39ecaefaaac87e4b98a1308404586bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: f0e4793f963539148bdaaa1adbd1b0b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: f6d642ad6a33782408bcb634a0b8ecd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eye texture
+    second: {fileID: 2100000, guid: cb5d3186cfad88f41a9e7483950750ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: feet
+    second: {fileID: 2100000, guid: c7cb2cdf2dc9de64597863e831b780a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth
+    second: {fileID: 2100000, guid: c5ab2b97c6ec73546b68d9216e8815cb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Running/walking cycle
+      takeName: Armature|Running/walking cycle
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.35
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
